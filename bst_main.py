@@ -1,5 +1,6 @@
 """
-Module:  Lab10P1.py
+Module:  bst_main.py
+
 Author:  Eyob Ollivierre
 Date:  4/20/25
 Based on code in textbook by Ken Lambert, with modifications and additional methods added by Student Author
